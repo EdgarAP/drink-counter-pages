@@ -1,0 +1,1 @@
+(self.webpackChunkdrink_counter=self.webpackChunkdrink_counter||[]).push([[7509],{7509:(n,e,r)=>{"use strict";r.r(e),r.d(e,{ion_loading:()=>k.L});var k=r(4205);r(1035),r(5466),r(1240),r(4751),r(7286),r(788)}}]);
