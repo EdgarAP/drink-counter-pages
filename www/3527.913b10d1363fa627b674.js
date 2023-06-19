@@ -1,1 +1,0 @@
-(self.webpackChunkdrink_counter=self.webpackChunkdrink_counter||[]).push([[3527],{3527:(e,r,n)=>{"use strict";n.r(r),n.d(r,{ion_popover:()=>k.P});var k=n(4205);n(1035),n(5466),n(1240),n(4751),n(7286),n(788)}}]);
